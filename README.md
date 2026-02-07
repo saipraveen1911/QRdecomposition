@@ -58,9 +58,8 @@ print("The R Matrix is \n",R)
 
 ## Output
 ```
-<img width="1907" height="866" alt="Ex 8(a) Maths for AI" src="https://github.com/user-attachments/assets/774f5e2a-ccb7-4063-aa9a-5a9b08455e2d" />
-<img width="1917" height="922" alt="Ex 8(b) Maths for AI" src="https://github.com/user-attachments/assets/a79c77f2-998d-4ce9-97cf-1e3dcf026ea9" />
-
+<img width="1918" height="855" alt="image" src="https://github.com/user-attachments/assets/80021764-c528-47db-8767-6cfa328644d6" />
+<img width="1917" height="861" alt="image" src="https://github.com/user-attachments/assets/d0105b48-3f19-4d65-bc7a-13a58e544689" />
 ```
 
 ## Result
