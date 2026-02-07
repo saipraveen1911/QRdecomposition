@@ -59,10 +59,10 @@ print("The R Matrix is \n",R)
 ## Output
 ```
 
-<img width="1915" height="858" alt="Ex 8(a) Maths for AI" src="https://github.com/user-attachments/assets/4f655518-d9df-4681-8f88-04dc1b84254f" />
+<img width="1907" height="866" alt="image" src="https://github.com/user-attachments/assets/dff92e60-1330-4448-bf0d-216f793a3bd2" />
 
-<img width="1917" height="922" alt="Ex 8(b) Maths for AI" src="https://github.com/user-attachments/assets/a55d19b6-b3e3-43d5-9654-cac2e30f3e99" />
 
+<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/31dcc80b-f061-4116-8579-a7a13a13b0bb" />
 
 ```
 
